@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ramya Sree
 
-<!--
-**ramyasree-02/ramyasree-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer with 4+ years of experience building scalable, secure, and high-performance applications using Angular, React, Java Spring Boot, Node.js, and AWS.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Frontend:** Angular, React.js, Next.js, TypeScript, HTML5, CSS3, RxJS
+- **Backend:** Java, Spring Boot, Node.js, Express.js, REST, GraphQL
+- **Databases:** PostgreSQL, MongoDB, Prisma, Mongoose
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, ECS), Docker, Jenkins, GitHub Actions
+- **Testing:** Jest, Jasmine, Cypress, JUnit, Mocha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Netflix Clone (MERN)] – React, Node.js, MongoDB, authentication, Stripe API
+- [Real-Time Fraud Analytics]– AWS Kinesis, Lambda, QuickSight dashboards
+- [Image Description with Voice Assistance]– Python, CNN-RLSTM, TTS
+
+## Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/ramya-sree-salividi-b53b9b214/)
+- Email: ramya.salividi@gmail.com
+
