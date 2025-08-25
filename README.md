@@ -12,7 +12,6 @@ I'm a Full Stack Developer with 4+ years of experience building scalable, secure
 ## Featured Projects
 - [Netflix Clone (MERN)] – React, Node.js, MongoDB, authentication, Stripe API
 - [Real-Time Fraud Analytics]– AWS Kinesis, Lambda, QuickSight dashboards
-- [Image Description with Voice Assistance]– Python, CNN-RLSTM, TTS
 
 ## Connect with Me
 - LinkedIn: (https://www.linkedin.com/in/ramya-sree-salividi-b53b9b214/)
